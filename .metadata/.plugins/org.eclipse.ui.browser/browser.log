@@ -1,0 +1,15 @@
+
+Feb 11, 2022 24:31:15.329 NEW SESSION
+Feb 11, 2022 24:31:15.329 [22548:25176:0211/003115.324:ERROR:chrome_browser_main_extra_parts_metrics.cc(227)] START: ReportBluetoothAvailability(). If you don't see the END: message, this is crbug.com/1216328.
+Feb 11, 2022 24:31:15.330 [22548:25176:0211/003115.325:ERROR:chrome_browser_main_extra_parts_metrics.cc(230)] END: ReportBluetoothAvailability()
+Feb 11, 2022 24:31:15.330 [22548:25176:0211/003115.325:ERROR:chrome_browser_main_extra_parts_metrics.cc(235)] START: GetDefaultBrowser(). If you don't see the END: message, this is crbug.com/1216328.
+Feb 11, 2022 24:31:15.331 [22548:25208:0211/003115.325:ERROR:device_event_log_impl.cc(214)] [00:31:15.325] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 11, 2022 24:31:15.333 [22548:25176:0211/003115.327:ERROR:chrome_browser_main_extra_parts_metrics.cc(239)] END: GetDefaultBrowser()
+Feb 11, 2022 24:31:15.339 [22548:25208:0211/003115.338:ERROR:device_event_log_impl.cc(214)] [00:31:15.338] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 11, 2022 24:31:22.374 [22548:25208:0211/003122.374:ERROR:interface_endpoint_client.cc(658)] Message 0 rejected by interface blink.mojom.WidgetHost
+Feb 11, 2022 24:50:25.430 [22420:25712:0211/005025.429:ERROR:chrome_browser_main_extra_parts_metrics.cc(227)] START: ReportBluetoothAvailability(). If you don't see the END: message, this is crbug.com/1216328.
+Feb 11, 2022 24:50:26.338 [22420:25712:0211/005025.429:ERROR:chrome_browser_main_extra_parts_metrics.cc(230)] END: ReportBluetoothAvailability()
+Feb 11, 2022 24:50:26.339 [22420:25712:0211/005025.429:ERROR:chrome_browser_main_extra_parts_metrics.cc(235)] START: GetDefaultBrowser(). If you don't see the END: message, this is crbug.com/1216328.
+Feb 11, 2022 24:50:26.339 [22420:25712:0211/005025.430:ERROR:chrome_browser_main_extra_parts_metrics.cc(239)] END: GetDefaultBrowser()
+Feb 11, 2022 24:50:26.339 [22420:25928:0211/005025.438:ERROR:device_event_log_impl.cc(214)] [00:50:25.439] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 11, 2022 24:50:26.339 [22420:25928:0211/005025.450:ERROR:device_event_log_impl.cc(214)] [00:50:25.451] USB: usb_device_handle_win.cc:1049 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
